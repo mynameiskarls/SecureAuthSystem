@@ -1,4 +1,4 @@
-###Modified Version of Code-Break0's Login System
+# Modified Version of Code-Break0's Login System
 https://github.com/Code-Break0/SecureAuthSystem/
 
 Added some features like admin approving and user management.
